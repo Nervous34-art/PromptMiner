@@ -1,0 +1,6 @@
+{
+  "name": "PromptMiner",
+  "description": "Analyze AI prompt history to cluster pain points, discover high-potential software opportunities, and generate MVP build plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
